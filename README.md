@@ -10,3 +10,17 @@ Download Powerpoint Presentation https://github.com/PrzemekCichy/Final-Year/blob
 
 ![alt tag](http://i.imgur.com/e7uqlL1.png)
 ![alt tag](http://i.imgur.com/HeVwmzX.png)
+
+### Typescript Mods
+https://github.com/PrzemekCichy/TypescriptMods
+
+Wiki
+http://i.imgur.com/U55GDLi.png
+http://i.imgur.com/1xixqpG.png
+http://i.imgur.com/Bgau3wK.png
+
+Interface
+http://i.imgur.com/aUEXltd.png
+
+Breeding Helper
+https://github.com/PrzemekCichy/TypescriptMods/blob/master/TypescriptMods/PetMod/BreedingHelperRedesign.ts
