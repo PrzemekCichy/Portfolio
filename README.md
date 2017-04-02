@@ -36,3 +36,8 @@ https://www.youtube.com/watch?v=ZudhMz4hn40
 ###Chain Reaction Sponsored Hackaton - Recom
 Small 24h project that aims to showcase how chainreaction.com could use 
 https://github.com/PrzemekCichy/Javascript-Hackaton-Ecom/blob/master/pagePlugin.js
+
+
+### 2-Bit Multiplexer
+My personal implementation of 2-bit ALU performing Addition, Multiplication, Logical AND and Logical OR operations.
+![alt tag](http://i.imgur.com/d3ymfHE.png)
