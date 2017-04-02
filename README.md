@@ -8,8 +8,6 @@ Repository https://github.com/PrzemekCichy/Final-Year
 Download Powerpoint Presentation https://github.com/PrzemekCichy/Final-Year/blob/master/FinalProject/Interview.pptx
 
 ![alt tag](http://i.imgur.com/e7uqlL1.png)
-![alt tag](http://i.imgur.com/HeVwmzX.png)
-
 
 ### Typescript Mods
 https://github.com/PrzemekCichy/TypescriptMods
@@ -23,14 +21,13 @@ Interface
 ![alt tag](http://i.imgur.com/aUEXltd.png)
 
 Breeding Helper
+![alt tag](http://imgur.com/rOv31ht.png)
 https://github.com/PrzemekCichy/TypescriptMods/blob/master/TypescriptMods/PetMod/BreedingHelperRedesign.ts
 https://www.youtube.com/watch?v=ZudhMz4hn40
 
-### Chest Interface
-
-
 
 ### Chest Interface
+Hmm
 
 
 ###Chain Reaction Sponsored Hackaton - Recom
