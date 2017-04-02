@@ -38,3 +38,4 @@ https://github.com/PrzemekCichy/Javascript-Hackaton-Ecom/blob/master/pagePlugin.
 ### 2-Bit Multiplexer
 My personal implementation of 2-bit ALU performing Addition, Multiplication, Logical AND and Logical OR operations.
 ![alt tag](http://i.imgur.com/d3ymfHE.png)
+
