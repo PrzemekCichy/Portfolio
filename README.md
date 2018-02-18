@@ -13,6 +13,7 @@ Download Powerpoint Presentation https://github.com/PrzemekCichy/Final-Year/blob
 ![alt tag](http://i.imgur.com/e7uqlL1.png)
 
 ### Personal website
+Visit https://przemekcichy.github.io/PersonalWebsite/. Please note PHP does not work on GitHub.
 Made using Bootstrap and JQuery.
 https://github.com/PrzemekCichy/PersonalWebsite
 ![alt tag](http://imgur.com/RfCkC8Z.png)
