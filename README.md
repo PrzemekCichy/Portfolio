@@ -14,7 +14,7 @@ Download Powerpoint Presentation https://github.com/PrzemekCichy/Final-Year/blob
 
 ### Personal website
 Made using Bootstrap and JQuery.
-//Add Link to personal website project
+https://github.com/PrzemekCichy/PersonalWebsite
 ![alt tag](http://imgur.com/RfCkC8Z.png)
 
 ### Bootstrap
