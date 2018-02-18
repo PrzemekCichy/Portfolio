@@ -4,9 +4,9 @@ Welcome to my portfolio page showcasing some of my publicly availible code!
 
 ### Final Year project: GPU accelerated application for sentiment analysis based on Twitter Archive data.
 Repository: https://github.com/PrzemekCichy/NBDAP
-http://imgur.com/a/2JslqC9.png
-http://imgur.com/a/biOEJSV.png
-http://imgur.com/a/GTyIikU.png
+![alt tag](http://imgur.com/a/2JslqC9.png)
+![alt tag](http://imgur.com/a/biOEJSV.png)
+![alt tag](http://imgur.com/a/GTyIikU.png)
 
 ### C# Car Explorer Windows Presentation Foundation app
 Year 2 project for C# module at my university. Based on Windows Presentation Foundation, uses JSON file to store and retrive car information.
