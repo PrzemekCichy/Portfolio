@@ -1,14 +1,18 @@
 # Portfolio
 
-Welcome to my portfolio page showcasing some of my publicly availible code!
+Welcome to my portfolio page showcasing my publicly availible code! Additional work can be showcased at a request.
 
-### Final Year project: GPU accelerated application for sentiment analysis based on Twitter Archive data.
+## Final Year project: GPU accelerated application for sentiment analysis based on Twitter Archive data.
+This project aims to design and implement a fast and straight forward application for non-technical users to use for analysis of the Twitter data. The result is an application incorporating Sentiment Analysis, Data Preparation (ranging from Twitter API stream to Archive.org Twitter archives) and Data Visualisation.
+
 Repository: https://github.com/PrzemekCichy/NBDAP
+
 ![alt tag](http://imgur.com/2JslqC9.png)
 ![alt tag](http://imgur.com/biOEJSV.png)
 ![alt tag](http://imgur.com/GTyIikU.png)
 
 ### C# Car Explorer Windows Presentation Foundation app
+
 Year 2 project for C# module at my university. Based on Windows Presentation Foundation, uses JSON file to store and retrive car information.
 Supports Add, Delete, Cut, Copy, Paste, Search and Filter operations. 
 
@@ -51,16 +55,23 @@ https://www.youtube.com/watch?v=ZudhMz4hn40
 
 ### Bot Engine
 Very old code with some terrible stuff going on. Nonetheless still cool in some ways. 
+It supports multiple actions, such as:
+* Finding monsters in nearest proximity and engaging in action
+* Deposit, withdrawal, buying selling
+* Auto disengage upon low health and automatic healing
+* Ability to user define actions for sequential execution. 
+
 https://gist.github.com/PrzemekCichy/91d676da456eed51b8504ab51dc23f84
 
 
 #### Chest Interface
+Improves the interface of the chest by giving additional buttons and reorganising the view by categories.
 http://imgur.com/a/bHaeY.png
 https://www.youtube.com/watch?v=5w4MbM6sm3g
 
 
 ### Chain Reaction Sponsored Hackaton - Recom
-Small 24h project that aims to showcase how chainreaction.com could use 
+Small 24h project that aims to showcase how chainreactioncycles.com could improve their review system.
 https://github.com/PrzemekCichy/Javascript-Hackaton-Ecom/blob/master/pagePlugin.js
 
 
