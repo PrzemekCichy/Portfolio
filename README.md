@@ -3,13 +3,14 @@
 Welcome to my portfolio page showcasing my publicly availible code! Additional work can be showcased at a request.
 
 ## Final Year project: GPU accelerated application for sentiment analysis based on Twitter Archive data.
-This project aims to design and implement a fast and straight forward application for non-technical users to use for analysis of the Twitter data. The result is an application incorporating Sentiment Analysis, Data Preparation (ranging from Twitter API stream to Archive.org Twitter archives) and Data Visualisation.
+This project aims to design and implement a fast and straight forward application for non-technical users to use for analysis of the Twitter data. The result is an application incorporating Sentiment Analysis, Data Preparation (ranging from Twitter API stream to Archive.org Twitter archives) and Data Visualisation. Final grade for the report on the project (52 pages + 20 appendix) was 86%.
 
 Repository: https://github.com/PrzemekCichy/NBDAP
 
-![alt tag](http://imgur.com/2JslqC9.png)
-![alt tag](http://imgur.com/biOEJSV.png)
-![alt tag](http://imgur.com/GTyIikU.png)
+![alt tag](https://imgur.com/wzot3mf.png)
+![alt tag](https://i.imgur.com/QeMyVhw.png)
+![alt tag](https://i.imgur.com/qf9TTjV.png)
+![alt tag](https://i.imgur.com/BOj9oMu.png)
 
 ### C# Car Explorer Windows Presentation Foundation app
 
