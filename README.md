@@ -10,7 +10,13 @@ Repository: https://github.com/PrzemekCichy/NBDAP
 ![alt tag](https://imgur.com/wzot3mf.png)
 ![alt tag](https://i.imgur.com/QeMyVhw.png)
 ![alt tag](https://i.imgur.com/qf9TTjV.png)
+
+Vader Analysis
+
 ![alt tag](https://i.imgur.com/BOj9oMu.png)
+
+Proximity Analysis
+![alt tag](https://imgur.com/vZhQLmj.png)
 
 ### C# Car Explorer Windows Presentation Foundation app
 
