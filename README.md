@@ -11,6 +11,8 @@ https://przemekcichy.github.io/Maps/Map/map.html
 
 Simple VUE.js front end for data binding, with slightly complex logic to render images from spires.
 D3.js for vector manipulation on canvas. Code wtritten in Typescript. 
+![image](https://user-images.githubusercontent.com/11573347/201785366-4765f94f-614d-40d1-bdd4-2151b5152096.png)
+![image](https://user-images.githubusercontent.com/11573347/201785896-3961c372-b26b-4c9c-9f6f-07129ad557be.png)
 
 ## Final Year project: GPU accelerated application for sentiment analysis based on Twitter Archive data.
 This project aims to design and implement a fast and straight forward application for non-technical users to use for analysis of the Twitter data. The result is an application incorporating Sentiment Analysis, Data Preparation (ranging from Twitter API stream to Archive.org Twitter archives) and Data Visualisation. Final grade for the report on the project (52 pages + 20 appendix) was 86%.
